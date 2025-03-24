@@ -18,9 +18,6 @@ A comprehensive code domain benchmark review of LLM researches.
 - 🔥🔥 **[2025-03-17]** We add **Code Version** (Version-specific code generation) benchmarks.
 - 🔥🔥 **[2025-03-16]** A thorough review of code domain benchmarks for LLM research has been released.
 
-<!-- ## Table of Contents
-1. [Code C](#1_Code Completion & Code Generation) -->
-
 ## 🚀 Top Code Benchmark
 
 ### Code Completion & Code Generation
@@ -116,6 +113,9 @@ A comprehensive code domain benchmark review of LLM researches.
 * Can Language Models Replace Programmers? REPOCOD Says ‘Not Yet’
 * JavaBench: A Benchmark of Object-Oriented Code Generation for Evaluating Large Language Models
 * ComplexCodeEval 
+* SwiftEval: Developing a Language-Specific Benchmark for LLM-generated Code Evaluation
+* HumanEvo: An Evolution-aware Benchmark for More Realistic Evaluation of Repository-level Code Generation
+
 
 ### Code Efficiency
 | Benchmark | Paper | Date | Github | Dataset & Website & LeaderBoard |
@@ -244,6 +244,8 @@ Version-specific code generation
 PLC (Programmable logic controller) & Verilog (Hardware description language) & ... (to be released soon)
 
 * VerilogEval Evaluating Large Language Models for Verilog Code Generation
+* VerilogEval
+* RTLLM
 
 ### Multi-Dimension
 * **LiveCodeBench**: self-repair, code execution, test output prediction, code generation
@@ -267,3 +269,6 @@ PLC (Programmable logic controller) & Verilog (Hardware description language) & 
 * TestBench: Evaluating Class-Level Test Case Generation Capability of Large Language Models
 * RepoQA
 * McEval
+* Towards Diverse Program Transformations for Program Simplification
+* FEA-Bench: A Benchmark for Evaluating Repository-Level Code Generation for Feature Implementation
+* CodeReviewQA: The Code Review Comprehension Assessment for Large Language Models
