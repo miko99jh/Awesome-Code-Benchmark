@@ -115,7 +115,8 @@ A comprehensive code domain benchmark review of LLM researches.
 * ComplexCodeEval 
 * SwiftEval: Developing a Language-Specific Benchmark for LLM-generated Code Evaluation
 * HumanEvo: An Evolution-aware Benchmark for More Realistic Evaluation of Repository-level Code Generation
-
+* REPOST: Scalable Repository-Level Coding Environment Construction with Sandbox Testing
+* Automated Benchmark Generation for Repository-Level Coding Tasks
 
 ### Code Efficiency
 | Benchmark | Paper | Date | Github | Dataset & Website & LeaderBoard |
@@ -272,3 +273,4 @@ PLC (Programmable logic controller) & Verilog (Hardware description language) & 
 * Towards Diverse Program Transformations for Program Simplification
 * FEA-Bench: A Benchmark for Evaluating Repository-Level Code Generation for Feature Implementation
 * CodeReviewQA: The Code Review Comprehension Assessment for Large Language Models
+* CoDet-M4: Detecting Machine-Generated Code in Multi-Lingual, Multi-Generator and Multi-Domain Settings
