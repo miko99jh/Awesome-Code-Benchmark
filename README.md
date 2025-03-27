@@ -117,6 +117,9 @@ A comprehensive code domain benchmark review of LLM researches.
 * HumanEvo: An Evolution-aware Benchmark for More Realistic Evaluation of Repository-level Code Generation
 * REPOST: Scalable Repository-Level Coding Environment Construction with Sandbox Testing
 * Automated Benchmark Generation for Repository-Level Coding Tasks
+* Probench: Benchmarking Large Language Models in Competitive Programming
+* SolEval: Benchmarking Large Language Models for Repository-level Solidity Code Generation
+
 
 ### Code Efficiency
 | Benchmark | Paper | Date | Github | Dataset & Website & LeaderBoard |
